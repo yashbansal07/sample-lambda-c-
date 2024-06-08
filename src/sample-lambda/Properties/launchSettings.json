@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "sample-lambda": {
+      "commandName": "Project"
+    },
+    "Profile 1": {
+      "commandName": "Executable",
+      "executablePath": "%USERPROFILE%\\.dotnet\\tools\\dotnet-lambda-test-tool-6.0.exe",
+      "commandLineArgs": "--port 2233",
+      "workingDirectory": ".\\bin",
+      "_comment": "Above working directyory - .\\bin\\$(Configurtaion)\\net6.0"
+    }
+  }
+}

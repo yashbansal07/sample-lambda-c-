@@ -1,0 +1,17 @@
+D:\Visual Studio\sample-lambda\src\sample-lambda\bin\Release\net6.0\linux-x64\sample-lambda.deps.json
+D:\Visual Studio\sample-lambda\src\sample-lambda\bin\Release\net6.0\linux-x64\sample-lambda.runtimeconfig.json
+D:\Visual Studio\sample-lambda\src\sample-lambda\bin\Release\net6.0\linux-x64\sample-lambda.dll
+D:\Visual Studio\sample-lambda\src\sample-lambda\bin\Release\net6.0\linux-x64\sample-lambda.pdb
+D:\Visual Studio\sample-lambda\src\sample-lambda\bin\Release\net6.0\linux-x64\Amazon.Lambda.Core.dll
+D:\Visual Studio\sample-lambda\src\sample-lambda\bin\Release\net6.0\linux-x64\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\Visual Studio\sample-lambda\src\sample-lambda\obj\Release\net6.0\linux-x64\sample-lambda.csproj.AssemblyReference.cache
+D:\Visual Studio\sample-lambda\src\sample-lambda\obj\Release\net6.0\linux-x64\sample-lambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\sample-lambda\src\sample-lambda\obj\Release\net6.0\linux-x64\sample-lambda.AssemblyInfoInputs.cache
+D:\Visual Studio\sample-lambda\src\sample-lambda\obj\Release\net6.0\linux-x64\sample-lambda.AssemblyInfo.cs
+D:\Visual Studio\sample-lambda\src\sample-lambda\obj\Release\net6.0\linux-x64\sample-lambda.csproj.CoreCompileInputs.cache
+D:\Visual Studio\sample-lambda\src\sample-lambda\obj\Release\net6.0\linux-x64\sample-lambda.csproj.CopyComplete
+D:\Visual Studio\sample-lambda\src\sample-lambda\obj\Release\net6.0\linux-x64\sample-lambda.dll
+D:\Visual Studio\sample-lambda\src\sample-lambda\obj\Release\net6.0\linux-x64\refint\sample-lambda.dll
+D:\Visual Studio\sample-lambda\src\sample-lambda\obj\Release\net6.0\linux-x64\sample-lambda.pdb
+D:\Visual Studio\sample-lambda\src\sample-lambda\obj\Release\net6.0\linux-x64\sample-lambda.genruntimeconfig.cache
+D:\Visual Studio\sample-lambda\src\sample-lambda\obj\Release\net6.0\linux-x64\ref\sample-lambda.dll
